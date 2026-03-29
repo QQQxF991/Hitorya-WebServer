@@ -1,9 +1,11 @@
 #pragma once
+#ifndef LOGGER_CPP
+#define LOGGER_CPP
 #include "../include/logger.h"
 
 namespace Logging {
 
-    logger::logger(/* args */){
+    logger::logger(){
 
     }
     
@@ -12,4 +14,4 @@ namespace Logging {
     }
 
 }; // namespace Logging
-
+#endif
