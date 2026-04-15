@@ -35,4 +35,5 @@ namespace core {
     [[nodiscard]] std::string_view SelectOS (OperatingSystems _os_) noexcept;
     [[nodiscard]] std::string_view SelectArch (Architecture _arch_) noexcept;
 
+    
 } // namespace core 
