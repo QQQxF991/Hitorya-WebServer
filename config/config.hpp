@@ -14,7 +14,10 @@ namespace config {
     std::vector<std::string> index;
     bool autoindex = false;
    };
-    
+    /* Настройка самой хост конфигурации
+      TODO: провести сериализацию 
+      и хот-свап конфигурацию в отдельном системном файле
+    */
    struct VirtualHost{
     std::vector<std::string> listen;
     std::vector<std::string> server_name;
@@ -31,6 +34,7 @@ namespace config {
       uint8_t client_max_body_size = {1 * 1024 * 1024};  
     };
    };
+  /*в дальнейшем создать генератор статичного системного дефолтного файла*/
 
 } // namespace config
 

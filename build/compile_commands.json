@@ -1,0 +1,14 @@
+[
+{
+  "directory": "C:/Users/butte/Desktop/Hytorya_WEB_SERVER/build",
+  "command": "C:\\PROGRA~1\\MICROS~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++latest -MD -O3 -march=native -flto /FoCMakeFiles\\webserver.dir\\core\\src\\server.cpp.obj /FdCMakeFiles\\webserver.dir\\ /FS -c C:\\Users\\butte\\Desktop\\Hytorya_WEB_SERVER\\core\\src\\server.cpp",
+  "file": "C:/Users/butte/Desktop/Hytorya_WEB_SERVER/core/src/server.cpp",
+  "output": "C:/Users/butte/Desktop/Hytorya_WEB_SERVER/build/CMakeFiles/webserver.dir/core/src/server.cpp.obj"
+},
+{
+  "directory": "C:/Users/butte/Desktop/Hytorya_WEB_SERVER/build",
+  "command": "C:\\PROGRA~1\\MICROS~1\\18\\COMMUN~1\\VC\\Tools\\MSVC\\1450~1.357\\bin\\Hostx86\\x86\\cl.exe  /nologo /TP /DWIN32 /D_WINDOWS /GR /EHsc /O2 /Ob2 /DNDEBUG -std:c++latest -MD -O3 -march=native -flto /FoCMakeFiles\\webserver.dir\\libs\\loger\\src\\logger.cpp.obj /FdCMakeFiles\\webserver.dir\\ /FS -c C:\\Users\\butte\\Desktop\\Hytorya_WEB_SERVER\\libs\\loger\\src\\logger.cpp",
+  "file": "C:/Users/butte/Desktop/Hytorya_WEB_SERVER/libs/loger/src/logger.cpp",
+  "output": "C:/Users/butte/Desktop/Hytorya_WEB_SERVER/build/CMakeFiles/webserver.dir/libs/loger/src/logger.cpp.obj"
+}
+]
